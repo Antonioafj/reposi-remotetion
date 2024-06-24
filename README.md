@@ -1,3 +1,4 @@
-# reposi-remotetion
+# reposi- localzationn
 
-# commite antes do clooonnne
+# commite antes do clooonnne local depois do clone
+
